@@ -4,12 +4,15 @@ This is an Android implementation of
 [robotfindskitten](http://robotfindskitten.org).
 
 ## Download
-
+  -Note that these downloads are to the previous version, and are not to the updated one.
   * [robotfindskitten (Google Play)](https://play.google.com/store/apps/details?id=info.staticfree.android.robotfindskitten)
   * [robotfindskitten.apk](robotfindskitten.apk) (same as the one published on Play)
 
 ## Changes
-
+  * 2025-06-24: 1.1.0 - What's New
+-Target Android version 7.0 (App can now be installed on devices running Android 13+)
+-Replaced heart emoji with the ascii symbol "♥"
+-Even more 'object encouners?'
   * 2012-12-21: 1.0.701 - Mayan Apocalypse Edition; a slew of new NKI, tablet support, new old-style theme, updated icon
   * 0.9.406 - Fixed non-shown messages; updated icon
   * 0.8.406 - fixed multi-density scaling; minor visual improvements
@@ -23,10 +26,10 @@ This is an Android implementation of
   * [![screenshot 03](sshot03.thumb.png)](sshot03.png)
 
 ## Source
-
+  -Note that the repo below is the old one.
 The source for Android robotfindskitten is available via the [Android
 robotfindskitten git
-repository](https://github.com/xxv/robotfindskitten). You can grab a
+repository](https://github.com/xxv/robotfindskitten) You can grab a
 copy for yourself by running:
 
     git clone https://github.com/xxv/robotfindskitten.git
